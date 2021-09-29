@@ -12,3 +12,8 @@ _This blog is por testing  purposes, here I experiment with the README file._
 
 ## Compatible browsers:
 * Chrome 
+* Chrome 
+* Firefox
+* Brave
+
+* Love is all you need
