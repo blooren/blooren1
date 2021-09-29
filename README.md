@@ -9,3 +9,6 @@ Thanks to Platzi, I can create this awesome repository.
 
 
 _This blog is por testing  purposes, here I experiment with the README file._
+
+## Compatible browsers:
+* Chrome 
