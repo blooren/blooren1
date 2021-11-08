@@ -1,4 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    background-attachment: fixed;
+}
+
 h1{
-  text-alling: center;
+  text-align: center;
   color: white;
 }
